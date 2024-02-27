@@ -7,6 +7,8 @@ html,body{
     font-family:'poppins';
     background-color: black;
     color: white;
+    height: 100%;
+    width: 100%;
 }
 .main{ 
     text-align: center;
@@ -62,9 +64,18 @@ span#milliseconds{
 }
 .footer i{
     margin: 0.5rem;
+    text-decoration: underline;
 }
 .footer .social{
     text-align: center;
+    display: flex;
+    align-items: flex-end;
+    margin: 1rem;
+    
+}
+p{
+    text-decoration: underline;
+
 }
 .social i{
     font-size: 24px;

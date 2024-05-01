@@ -11,4 +11,5 @@ WEBSITE PREVIEW
 APP PREVIEW
 
 
-![Screenshot (2)](https://github.com/spaciousejar/stopwatch/assets/76901120/24b14672-5962-469a-be31-da1ad019767d)
+
+![Screenshot (2)](https://github.com/spaciousejar/stopwatch/assets/76901120/b2502a60-2fb1-472c-9d12-cafa20e49901)
